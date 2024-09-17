@@ -8,3 +8,4 @@ openai
 alpha_vantage
 yfinance
 python-dotenv
+ace_tools
