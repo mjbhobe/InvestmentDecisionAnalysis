@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+requests
+bs4
+openai
+alpha_vantage
+yfinance
+python-dotenv
